@@ -1,174 +1,338 @@
-{
-  "1day": [
-    "F57C-B06D-119E-10C8", //Aug 5, 2026 - 6:40pm
-    "53E4-8081-68A2-426E",
-    ""
-  ],
-  "4days": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "7days": [
-    "",
-    "",
-    ""
-  ],
-  "15days": [
-    "",
-    "",
-    ""
-  ],
-  "30day": [
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000"
-  ],
-  "lifetime": [
-    "5C82-C346-A264-1A3C", //My HWID
-    "85D4-A6CE-D5F1-C928", //DeadSec HWID
-    "D997-A849-6D43-49A8", //Cresiya HWID
-    "7D77-CAB6-CAAC-65BE", //Anomalocaris / Doc Q HWID
-    "0814-27DA-2B3D-FD0F", //flyfferschan HWID
-    "DC01-A549-DE35-E3CF", //Mann HWID
-    "5A94-4F0E-BFC9-BC78", //Mann - tropa HWID
-    "42E5-D369-11DF-DD26", //Dodong HWID
-    "58D5-3999-2DD7-F107", //GmbH HWID
-    "374F-F60E-5D12-DB23", //Satoru HWID
-    "7E22-36B5-3943-B9CE", //Satoru Customer HWID
-    "E37F-FAFD-69AA-E7CA", //Nilo HWID
-    "5C78-6FF0-3993-C685", //Satoru Customer HWID
-    "28DB-7FBC-60B7-D251", //scyth3eee HWID
-    "C698-2296-14C7-3171", //FliperCobra HWID 
-    "555D-4614-4E47-729C", //haejiadji HWID
-    "F2BA-D6F8-D0B0-3295", //zacky HWID - January 1reset
-    "5AF1-7622-F38A-F227", //Pezzimyzt HWID
-    "B240-2816-7F24-30F8", //elvengwaps HWID
-    "9471-8445-0FA3-5B3F", //Vex HWID
-    "1E69-F527-B9F9-9588", //angeloegasan / egasangelo HWID
-    "83BE-550F-6AF3-6AF0", //Jorge HWID
-    "5855-0458-FD46-CAF4", //Zeus HWID
-    "13E9-3444-6EAC-BF6F", //BlackRose HWID
-    "7645-F741-B13B-E6AE", //Shawarma HWID
-    "60C1-0135-E11E-E8FF", //Kuys Payat HWID
-    "3C27-8A8E-22EC-63AB", //Keiffer John HWID
-    "E38F-9D04-8B33-3AFA", //galactvs HWID
-    "B38D-D504-EE03-6DC4", //Bjayy HWID
-    "03B5-9702-A527-4BB3", //cris HWID
-    "B500-F2CF-0B80-E846", //jeff018339 HWID
-    "22FB-C02B-074E-589C", //mjppanisal21 HWID
-    "417C-4BAB-230B-2D07", //Himoko HWID
-    "408F-899A-CE1D-21FE", //vencha0446_58424 HWID
-    "F7C9-0637-F53C-AE33", //DOX HWID
-    "80CA-11EA-080C-02D7", //PEPA HWID
-    "2174-A64A-A2D4-590E" //Ampong HWID
-  ]
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[
+  {
+    "HWID": "F57C-B06D-119E-10C8",
+    "subs": "1day",
+    "cheatType": "simple",
+    "name": "Aug 5, 2026 - 6:40pm"
+  },
+  {
+    "HWID": "53E4-8081-68A2-426E",
+    "subs": "1day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "1day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "4days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "7days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "7days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "7days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "15days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "15days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "",
+    "subs": "15days",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "0000-0000-0000-0000",
+    "subs": "30day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "0000-0000-0000-0000",
+    "subs": "30day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "0000-0000-0000-0000",
+    "subs": "30day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "0000-0000-0000-0000",
+    "subs": "30day",
+    "cheatType": "simple",
+    "name": ""
+  },
+  {
+    "HWID": "5C82-C346-A264-1A3C",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "My HWID"
+  },
+  {
+    "HWID": "85D4-A6CE-D5F1-C928",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "DeadSec HWID"
+  },
+  {
+    "HWID": "D997-A849-6D43-49A8",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Cresiya HWID"
+  },
+  {
+    "HWID": "7D77-CAB6-CAAC-65BE",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Anomalocaris / Doc Q HWID"
+  },
+  {
+    "HWID": "0814-27DA-2B3D-FD0F",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "flyfferschan HWID"
+  },
+  {
+    "HWID": "DC01-A549-DE35-E3CF",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Mann HWID"
+  },
+  {
+    "HWID": "5A94-4F0E-BFC9-BC78",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Mann - tropa HWID"
+  },
+  {
+    "HWID": "42E5-D369-11DF-DD26",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Dodong HWID"
+  },
+  {
+    "HWID": "58D5-3999-2DD7-F107",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "GmbH HWID"
+  },
+  {
+    "HWID": "374F-F60E-5D12-DB23",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Satoru HWID"
+  },
+  {
+    "HWID": "7E22-36B5-3943-B9CE",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Satoru Customer HWID"
+  },
+  {
+    "HWID": "E37F-FAFD-69AA-E7CA",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Nilo HWID"
+  },
+  {
+    "HWID": "5C78-6FF0-3993-C685",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Satoru Customer HWID"
+  },
+  {
+    "HWID": "28DB-7FBC-60B7-D251",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "scyth3eee HWID"
+  },
+  {
+    "HWID": "C698-2296-14C7-3171",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "FliperCobra HWID"
+  },
+  {
+    "HWID": "555D-4614-4E47-729C",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "haejiadji HWID"
+  },
+  {
+    "HWID": "F2BA-D6F8-D0B0-3295",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "zacky HWID - January 1reset"
+  },
+  {
+    "HWID": "5AF1-7622-F38A-F227",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Pezzimyzt HWID"
+  },
+  {
+    "HWID": "B240-2816-7F24-30F8",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "elvengwaps HWID"
+  },
+  {
+    "HWID": "9471-8445-0FA3-5B3F",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Vex HWID"
+  },
+  {
+    "HWID": "1E69-F527-B9F9-9588",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "angeloegasan / egasangelo HWID"
+  },
+  {
+    "HWID": "83BE-550F-6AF3-6AF0",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Jorge HWID"
+  },
+  {
+    "HWID": "5855-0458-FD46-CAF4",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Zeus HWID"
+  },
+  {
+    "HWID": "13E9-3444-6EAC-BF6F",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "BlackRose HWID"
+  },
+  {
+    "HWID": "7645-F741-B13B-E6AE",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Shawarma HWID"
+  },
+  {
+    "HWID": "60C1-0135-E11E-E8FF",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Kuys Payat HWID"
+  },
+  {
+    "HWID": "3C27-8A8E-22EC-63AB",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Keiffer John HWID"
+  },
+  {
+    "HWID": "E38F-9D04-8B33-3AFA",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "galactvs HWID"
+  },
+  {
+    "HWID": "B38D-D504-EE03-6DC4",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Bjayy HWID"
+  },
+  {
+    "HWID": "03B5-9702-A527-4BB3",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "cris HWID"
+  },
+  {
+    "HWID": "B500-F2CF-0B80-E846",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "jeff018339 HWID"
+  },
+  {
+    "HWID": "22FB-C02B-074E-589C",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "mjppanisal21 HWID"
+  },
+  {
+    "HWID": "417C-4BAB-230B-2D07",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Himoko HWID"
+  },
+  {
+    "HWID": "408F-899A-CE1D-21FE",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "vencha0446_58424 HWID"
+  },
+  {
+    "HWID": "F7C9-0637-F53C-AE33",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "DOX HWID"
+  },
+  {
+    "HWID": "80CA-11EA-080C-02D7",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "PEPA HWID"
+  },
+  {
+    "HWID": "2174-A64A-A2D4-590E",
+    "subs": "lifetime",
+    "cheatType": "simple",
+    "name": "Ampong HWID"
+  }
+]
